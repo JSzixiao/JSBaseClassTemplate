@@ -3,7 +3,7 @@
 创建一个项目，如果要创建一个基于UIViewController的类模板，则新建一个基于UIViewController的文件，在.m文件内添加需要继承的方法，然后修改.h文件以及.m文件的头部如下：
 
 * .h文件
-* 
+
 ![Preview](./images/h.png)
 
 * .m文件
