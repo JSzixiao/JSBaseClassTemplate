@@ -27,3 +27,8 @@
 ![Preview](./images/addNewFile.png)
 
 ![Preview](./images/subclass.png)
+
+##存在的问题
+
+现在还存在一个问题没有得到解决，正在寻找解决方案，如下：
+![Preview](./images/error.png)
